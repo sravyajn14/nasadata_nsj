@@ -1,4 +1,5 @@
-I am using windows machine so I didn't creat a shell script
+I am using windows machine so I didn't creat a run shell script and I removed unwanted files
+
 
 I used Python 2.7 version; Notepad++; windows 10 command prompt to write this code
 
@@ -18,7 +19,7 @@ code is in process_logf2.py file and src folder
 command to run the file: python process_logf2.py
 output file: resources.txt
 
-Feature F3: List in descending order the site’s 10 busiest (i.e. most frequently visited) 60-minute period.
+Feature F3: List in descending order the siteâ€™s 10 busiest (i.e. most frequently visited) 60-minute period.
 
 code is in process_logf3.py file and src folder
 command to run the file: python process_logf3.py
